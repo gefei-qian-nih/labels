@@ -1,3 +1,6 @@
 Rack ﻿1 U25,fsitgl-bgfs15p,Rack 6,FP-8560-E1901-6-leaf-a 1:39
-Rack ﻿1 U25,fsitgl-bgfs15p,Rack 6,FP-8560-E1901-6-leaf-b 1:39
+Rack 6,FP-8560-E1901-6-leaf-a 1:39,Rack ﻿1 U25,fsitgl-bgfs15p
+Rack ﻿1 U25,fsitgl-bgfs15p,Rack 6,FP-8560-E1901-6-leaf-a 1:39
+Rack 6,FP-8560-E1901-6-leaf-a 1:39,Rack ﻿1 U25,fsitgl-bgfs15p
 Rack ﻿1 U25,fsitgm-bgfs15m,Rack 6,FP-8560-E1901-6-DCS-SW1 2:47
+Rack 6,FP-8560-E1901-6-DCS-SW1 2:47,Rack ﻿1 U25,fsitgm-bgfs15m
